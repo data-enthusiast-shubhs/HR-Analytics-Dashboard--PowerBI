@@ -1,4 +1,5 @@
 # HR-Analytics-Dashboard--PowerBI
+![HR Dashboard](https://github.com/data-enthusiast-shubhs/HR-Analytics-Dashboard--PowerBI/assets/115934788/f58c558d-7507-4086-9b65-2309b4fd5bb4)
 
 **Power BI Project Readme**
 
